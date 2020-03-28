@@ -1,0 +1,63 @@
+input {
+    padding: 16px;
+    border-radius: 7px;
+    border: 0px;
+    background: rgba(255, 255, 255, .2);
+    display: block;
+    margin: 15px;
+    width: 300px;
+    color: white;
+    font-size: 18px;
+    height: 54px;
+}
+
+body {
+    background-color: gray;
+}
+
+label {
+    color: honeydew;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btnSuccess {
+    background-color: green;
+    color: honeydew;
+    border-radius: 5px;
+}
+
+.btnView {
+    background-color: rgb(6, 64, 135);
+    color: honeydew;
+    border-radius: 10px;
+    border-color: rgb(6, 64, 135);
+    font-size: 25px;
+}
+
+.btnAdd {
+    background-color: rgb(6, 135, 25);
+    color: honeydew;
+    border-radius: 10px;
+    border-color: rgb(6, 135, 25);
+    font-size: 25px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.btnDelete {
+    background-color: rgb(255, 47, 0);
+    color: honeydew;
+    border-radius: 10px;
+    border-color: rgb(255, 47, 0);
+    font-size: 25px;
+}
+
+table {
+    color: whitesmoke !important;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+}
